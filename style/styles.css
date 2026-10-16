@@ -1,0 +1,38 @@
+img {
+    border: solid black;
+    margin: auto 8px;
+}
+
+img:hover{
+    border-color: yellow
+}
+
+li a{
+    display: block
+}
+
+ul li {
+    display: inline-block;
+    margin: 24px auto;
+}
+
+
+li p{
+    margin: 0px 0px 4px 0px
+}
+ul,
+h1,
+p{
+    text-align: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 24px auto;
+    background-color: ivory
+}
